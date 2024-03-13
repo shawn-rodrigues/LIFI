@@ -11,17 +11,18 @@ LiFi technology is still in the early stages of adoption but has shown promising
 
 - Transmitter End
 
-![alt text](Media/Project-Transmitter.png)
+![Transmitter](Media/Project-Transmitter.png)
 
 - Receiver End
 
-![alt text](<Media/Project-Receiver end.png>)
+![Receiver](<Media/Project-Receiver end.png>)
 
 - OverView The Project
-![alt text](Media/OverView.png)
+
+![OverView](Media/OverView.png)
 
 # This is a Demo Video Or The Working Of the Project
 
->Video Link :- https://www.youtube.com/watch?v=2KlDNONzeZ8
+> Video Link :- https://www.youtube.com/watch?v=2KlDNONzeZ8
 
 
