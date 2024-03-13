@@ -19,4 +19,6 @@ LiFi technology is still in the early stages of adoption but has shown promising
 
 # This is a Demo Video Or The Working Of the Project
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2KlDNONzeZ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="https://www.youtube.com/watch?v=2KlDNONzeZ8" controls="controls" style="max-width: 730px;">
+</video>
+
