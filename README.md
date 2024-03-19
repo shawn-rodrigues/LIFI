@@ -17,7 +17,7 @@ LiFi technology is still in the early stages of adoption but has shown promising
 
 ![Receiver](<Media/Project-Receiver end.png>)
 
-- OverView The Project
+- Overview Of The Project
 
 ![OverView](Media/OverView.png)
 
