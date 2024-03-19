@@ -7,6 +7,25 @@ LiFi operates by modulating the intensity of light to transmit data. Light-emitt
 # Current Developments
 LiFi technology is still in the early stages of adoption but has shown promising developments in various fields. Researchers are exploring methods to improve its range, reliability, and integration with existing communication technologies.
 
+# Hardware Used
+   - THE ARDUINO UNO
+   - RESISTOR (22 ohm)
+   - SD CARD MODULE
+   - LED
+   - LDR: LIGHT DEPENDENT RESISTOR
+   - JUMPER WIRE
+   - BREADBOARD
+
+# Software Requestment
+   - ARDUINO IDE TOOL
+   - ARDUINO IDE LIBRARIES (ElapsedMillis Library, SD Library)
+   - C++
+
+# Software Development Model
+   - ITERATIVE WATERFALL MODEL
+
+![ITERATIVE WATERFALL MODEL](<Media/ITERATIVE WATERFALL MODEL.png>)
+
 # Circuit Diagrams
 
 - Transmitter End
