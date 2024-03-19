@@ -26,6 +26,16 @@ LiFi technology is still in the early stages of adoption but has shown promising
 
 ![ITERATIVE WATERFALL MODEL](<Media/ITERATIVE WATERFALL MODEL.png>)
 
+# Block Diagram
+
+   - Transmitter Block Diagram
+
+![Transmitter Block Diagram](Media/Transmitter-Block-Diagram.png)
+
+   - Receiver Block Diagram
+
+![Receiver Block Diagram](Media/Receiver-Block-Diagram.png)
+
 # Circuit Diagrams
 
 - Transmitter End
